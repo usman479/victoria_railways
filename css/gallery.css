@@ -1,0 +1,87 @@
+
+
+*{
+    font-family: serif;
+}
+
+#logo{
+    width: 200px;
+}
+.maroon {
+    background-color: brown;
+}
+.nav_padding{
+    margin-right: 50px;
+    margin: 0 300px 0 300px;
+}
+
+.aboutus_text{
+    background-color: rgb(126, 13, 13);
+    color: rgb(252, 249, 174);
+    height: 200px;
+    
+}
+
+form{
+    padding: 10px;
+    font-size: 20px;
+}
+
+form input{
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    background-color: rgb(226, 77, 77);
+    color: white;
+}
+form select{
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    background-color: rgb(226, 77, 77);
+    color: white;   
+
+}
+
+.form_bg{
+    background-color: rgb(255, 252, 175);
+}
+
+#book_btn{
+    padding: 0 10px 0 10px;
+    font-size: 30px;
+    width: 300px;
+    background-color: brown;
+    color: white;
+}
+
+.radio{
+    width: 20px;
+    margin-left: 40px;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 20px;
+    transition: 0.2s ;
+}
+
+.image:hover {
+    width: 350px;
+    height: 350px;
+}
+
+#outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.link_active{
+    font-weight: bold !important;
+   
+}

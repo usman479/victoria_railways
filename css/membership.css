@@ -1,0 +1,67 @@
+body{
+    background-image: url("../images/unplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: serif;
+}
+
+#logo{
+    width: 200px;
+}
+.maroon {
+    color: brown;
+}
+
+
+
+
+form{
+    padding: 10px;
+    font-size: 20px;
+}
+
+form input{
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(185, 62, 62); 
+}
+form select{
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(185, 62, 62);   
+
+}
+
+.form_bg{
+    background-color: rgb(255, 252, 175);
+
+}
+
+#create_btn{
+    padding: 0 10px 0 10px;
+    font-size: 30px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(185, 62, 62); 
+}
+
+.radio{
+    width: 20px;
+    margin-left: 40px;
+}
+#back_btn{
+    text-decoration: none;
+    padding: 0 10px 0 10px;
+    font-size: 30px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(185, 62, 62); 
+    
+}

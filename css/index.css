@@ -1,0 +1,30 @@
+*{
+    font-family: serif;
+}
+#logo{
+    width: 200px;
+}
+
+.maroon {
+    background-color: brown;
+}
+
+.nav_padding{
+    margin-right: 50px;
+    margin: 0 300px 0 300px;
+}
+
+.book_btn{
+    height: 70px;
+}
+
+#membership_btn{
+    text-decoration: none;
+    color: white;
+}
+
+
+.link_active{
+    font-weight: bold !important;
+   
+}

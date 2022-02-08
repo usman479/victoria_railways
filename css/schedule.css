@@ -1,0 +1,53 @@
+body{
+    background-image: url("../images/back9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: serif;
+}
+
+#logo{
+    width: 200px;
+}
+.maroon {
+    background-color: brown;
+}
+.nav_padding{
+    margin-right: 50px;
+    margin: 0 300px 0 300px;
+}
+
+.aboutus_text{
+    background-color: rgb(126, 13, 13);
+    color: rgb(252, 249, 174);
+    height: 200px;
+    
+}
+
+#hr{
+    width: 400px;
+    margin: auto;
+    height: 3px;
+    color: rgb(206, 206, 206);
+}
+.we_value{
+    color: brown;
+}
+
+.book_btn{
+    height: 70px;
+    padding: 0 50px 0 50px;
+}
+
+#back_btn{
+    text-decoration: none;
+    color: white;
+}
+
+
+.link_active{
+    font-weight: bold !important;
+   
+}
